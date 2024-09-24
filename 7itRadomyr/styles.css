@@ -1,0 +1,14 @@
+.header-text-1 {
+    color: aqua;
+    font-size: 100px;
+    font-weight: 700;
+
+}
+
+.header {
+
+    display: flex;
+
+    justify-content: end;
+    align-items: center;
+}
